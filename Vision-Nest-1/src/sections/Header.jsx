@@ -27,7 +27,7 @@ const Header = () => {
                         </li>
                         <li className='nav-logo'>
                             <LinkScroll to='hero' offset={-100} spy smooth className={clsx('max-lg:hidden transition-transform duration-500 cursor-pointer')}>
-                                <img src='/images/Vision-nest logo.png' width={160} height={55} alt='logo' className='rounded-full p-6'/>
+                                <img src='/images/Vision-nest logo.png' width={160} height={55} alt='logo' className='rounded-full p-10'/>
                             </LinkScroll>
                         </li>
                         <li className='nav-li'>
