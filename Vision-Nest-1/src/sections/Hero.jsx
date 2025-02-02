@@ -19,8 +19,8 @@ const Hero = () => {
                     <Button icon="/images/zap.svg">Try it now</Button>
                     </LinkScroll>
                 </div>
-                <div className='absolute -top-32 left-[calc(50%-340px)] w-[1230px] pointer-events-none overflow-hidden'>
-                    <img src="/images/pexels-crazy-motions-80195021-12198523-removebg.png" alt="hero" className='size-1230 max-lg:h-auto'/>
+                <div className='absolute -top-32 left-[calc(50%-340px)] w-[1230px] pointer-events-none overflow-hidden hero-img_res'>
+                    <img src="/images/Adobe Express - file.png" alt="hero" className='size-1230 max-lg:h-auto p-21vw'/>
                 </div>
             </div>
         </Element>
