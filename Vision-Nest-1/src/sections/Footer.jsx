@@ -22,7 +22,6 @@ const Footer = () => {
                 <a href={url} className='social-icon'>
                   <img src={icon} alt={title} className='size-1/3 object-contain'/>
                 </a>
-
               </li>
             ))}
           </ul>
